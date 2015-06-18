@@ -1,5 +1,6 @@
 {
-  "name": "vintageJS",
+  "name": "op.vintageJS",
   "version": "1.1.4",
   "main": "dist/vintage.js"
+
 }
